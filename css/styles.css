@@ -1,0 +1,27 @@
+body {
+    background-color: snow;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+    border: 2px solid powderblue;
+    padding: 30px;
+    margin: 50px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    float: right;
+    border-right: 1px solid #bbb;
+  }
+  
+  li a {
+    padding: 5px;
+  }
